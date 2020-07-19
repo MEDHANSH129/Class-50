@@ -1,0 +1,151 @@
+
+h1 {
+    color: black;
+}
+.header{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+    font-family: 'Tahoma';
+    font-weight: bolders;
+}
+.intro{
+    background-color: #e0ffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.step1{
+    background-color: palevioletred;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: left;
+}
+.step2{
+    background-color: lightsalmon;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: right;
+}
+.nxtstep{
+    background-color: lightseagreen;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: left;
+}
+.step3{
+    background-color: lemonchiffon;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: right;
+}
+.step4{
+    background-color: lightskyblue;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: left;
+}
+.step5{
+    background-color: mediumslateblue;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: right;
+}
+.step6{
+    background-color: peachpuff;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: left;
+}
+.step7{
+    background-color: pink;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: right;
+}
+.step8{
+    background-color: plum;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: left;
+}
+.step9{
+    background-color: mistyrose;
+    font-family: 'Tahoma';
+    font-weight: bold;
+display: flex;
+justify-content: right;
+}
+.links{
+    background-color: sandybrown;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.camel{
+    background-color: seashell;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.cham{
+    background-color: snow;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.pigeon{
+    background-color: seashell;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.teddy{
+    background-color: snow;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.panda{
+    background-color: seashell;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.cicada{
+    background-color: snow;
+    font-family: 'Tahoma';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.marq{
+    background-color: tomato;
+}
+.footer{
+    background-color: thistle;
+    display: flex;
+    justify-content: center;
+}
+.outro{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+
